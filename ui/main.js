@@ -1,5 +1,5 @@
 console.log('Loaded!');
-var h=document.ElementById('modi');
+var h=document.ElementById('mdi');
 function w(){
     marginLeft=marginLeft+10;
     img.style.marginnLeft-marginLeft+'px';
