@@ -1,2 +1,3 @@
 console.log('Loaded!');
-var ice='"center text-big bold"center text-big bold'
+var myHeading = document.querySelector('h1');
+myHeading.textContent = 'Hello world!';
