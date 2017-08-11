@@ -1,3 +1,11 @@
 console.log('Loaded!');
-var myHeading = document.querySelector('h1');
-myHeading.textContent = 'Hello world!';
+var h=document.ElementById('modi');
+function w(){
+    marginLeft=marginLeft+10;
+    img.style.marginnLeft-marginLeft+'px';
+    
+    
+}
+img.onclick=function(){
+var interval=setInterval(w,100);
+};
