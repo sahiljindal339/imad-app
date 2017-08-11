@@ -1,8 +1,2 @@
 console.log('Loaded!');
-var img=document.getElementById('mdi');
-img.onclick=function(){
-    
-  img.style.marignLeft='5000px';  
-    
-    
-};
+var ice='"center text-big bold"center text-big bold'
